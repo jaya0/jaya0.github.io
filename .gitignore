@@ -1,6 +1,3 @@
-_site
-.sass-cache
+_site/
+/_posts/*.html
 .idea
-.local
-.local/*
-.jekyll-cache
