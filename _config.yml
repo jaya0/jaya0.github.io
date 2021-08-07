@@ -2,12 +2,12 @@ markdown: kramdown
 kramdown:
   input: GFM
 permalink: /:year/:month/:title
-title: 东篱茶馆
-url: http://tanwubin.github.io
-subscribe: http://tanwubin.github.io/feed
+title: JAYA0'S BLOG
+url: http://jaya0.github.io
+subscribe: http://jaya0.github.io/feed
 exclude: [ README.md, newpost.rb ]
-domain: tanwubin.github.io
-author: tanwubin
+domain: jaya0.github.io
+author: jaya0
 email: brieftime@icloud.com
 safe: true
 excerpt_separator: "&nbsp;"
